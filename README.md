@@ -161,7 +161,7 @@ For questions or support regarding this project, refer to the code comments or c
 
 If you want, I can also *create a more concise “GitHub-ready” version* with badges, setup instructions, and links for a professional repository look.
 
-# AI-Powered Climate Stress Test for Supply Cha**ins 🌍📊
+# AI-Powered Climate Stress Test for Supply Chains 🌍📊
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
@@ -219,4 +219,5 @@ pip install -r requirements.txt
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly networkx scikit-learn
+
 
